@@ -1,4 +1,4 @@
-# 📚 Book Management System
+# 📚 Library Management System
 
 A Java-based application designed to manage library operations such as adding, lending, and searching books with a simple GUI.
 
